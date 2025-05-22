@@ -28,6 +28,7 @@ main {
 section {
   height: 100px;
   width: 400px;
+  margin: 0px auto;
 }
 article {
   height: 80%;
