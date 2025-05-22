@@ -21,7 +21,7 @@ h1 {
 }
 main {
   background-color: rgb(251, 30, 140);
-  min-height: 100svh;
+  min-width: 100svw;
   text-align: center;
   min-height: 100svh;
   padding-top: 20px;
