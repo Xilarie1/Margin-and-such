@@ -70,7 +70,7 @@ img {
   border: 3px darkgreen outset;
 }
 .fire {
-  background-color: orange;
+  background-color: rgb(255, 68, 34);
   border: 3px darkgoldenrod dotted;
 }
 .water {
