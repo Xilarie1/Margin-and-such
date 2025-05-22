@@ -14,16 +14,17 @@ header {
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
-  font-weight: 300;
+  font-weight: 600;
   font-style: italic;
   color: yellow;
   -webkit-text-stroke: 2px blue;
 }
 main {
   background-color: rgb(251, 30, 140);
+  min-height: 100svh;
   text-align: center;
   min-height: 100svh;
-  padding: 10px 60px;
+  padding-top: 20px;
 }
 section {
   height: 100px;
@@ -33,6 +34,7 @@ section {
 article {
   height: 80%;
   width: 23%;
+  margin: 0px 10px;
   display: inline-block;
   text-align: center;
 }
